@@ -1,0 +1,80 @@
+XDE-Theme*Name:				Penguins
+XDE-Theme*Style:			Squared-blue
+
+XDE-Theme*WallpaperDefault:		penguin_inflight
+XDE-Theme*WallpaperRepeat:		true
+XDE-Theme*Wallpaper0:			antartica
+XDE-Theme*Wallpaper1:			penguin_inflight
+XDE-Theme*Wallpaper2:			penguins_busy
+XDE-Theme*Wallpaper3:			penguins_inarow2
+XDE-Theme*Wallpaper4:			penguins_jumping
+XDE-Theme*Wallpaper5:			penguins_drifts
+XDE-Theme*Wallpaper6:			penguins_pair
+
+XDE-Theme*Workspaces:			7
+XDE-Theme*WorkspaceNames:		\ 1 , 2 , 3 , 4 , 5 , 6 , 7, 8 , 9 
+
+XDE-Theme*WorkspaceColor:		#000000
+XDE-Theme*WorkspaceCenter:		0
+XDE-Theme*WorkspaceScaled:		0
+XDE-Theme*WorkspaceTiled:		0
+XDE-Theme*WorkspaceFull:		1
+XDE-Theme*WorkspaceImage:		penguins/penguins_jumping.jpg
+
+XDE-Theme*Workspace0Image:		penguins/antartica.jpg
+XDE-Theme*Workspace1Image:		penguins/penguin_inflight.jpg
+XDE-Theme*Workspace2Image:		penguins/penguins_busy.jpg
+XDE-Theme*Workspace3Image:		penguins/penguins_inarow2.jpg
+XDE-Theme*Workspace4Image:		penguins/penguins_jumping.jpg
+XDE-Theme*Workspace5Image:		penguins/penguins_drifts.jpg
+XDE-Theme*Workspace6Image:		penguins/penguins_pair.jpg
+
+XDE-Theme.blackbox.WorkspaceNames:	Workspace 1,Workspace 2,Workspace 3,Workspace 4,Workspace 5,Workspace 6,Workspace 7,Workspace 8,Workspace 9
+
+XDE-Theme.openbox.WorkspaceNames:	1,2,3,4,5,6,7,8,9
+
+XDE-Theme.icewm.WorkspaceNames:		\ 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 
+
+XDE-Theme.jwm.WorkspaceNames:		1,2,3,4,5,6,7,8,9
+
+XDE-Theme.ctwm.WorkspaceNames:		1,2,3,4,5,6,7,8,9
+
+XDE-Theme.vtwm.WorkspaceNames:		1,2,3,4,5,6,7,8,9
+
+XDE-Theme.twm.Workspaces:		1
+XDE-Theme.twm.WorkspaceNames:		1,2,3,4,5,6,7,8,9
+
+XSettings*gtk-button-images:			1
+!XSettings*gtk-color-scheme:			
+XSettings*gtk-cursor-theme-name:		Bluecurve
+XSettings*gtk-cursor-theme-size:		18
+XSettings*gtk-enable-event-sounds:		1
+XSettings*gtk-enable-input-feedback-sounds:	1
+XSettings*gtk-enable-sounds:			1
+XSettings*gtk-fallback-icon-theme:		hicolor
+XSettings*gtk-font-name:			Liberation Sans 9
+!XSettings*gtk-icon-sizes:			
+XSettings*gtk-icon-theme-name:			gnome-brave
+!XSettings*gtk-key-theme-name:			
+XSettings*gtk-menu-bar-accel:			F10
+XSettings*gtk-menu-images:			1
+XSettings*gtk-sound-theme-name:			freedesktop
+XSettings*gtk-theme-name:			Mist
+XSettings*gtk-toolbar-icon-size:		GTK_ICON_SIZE_LARGE_TOOLBAR
+XSettings*gtk-toolbar-style:			GTK_TOOLBAR_BOTH
+XSettings*gtk-xft-antialias:			1
+XSettings*gtk-xft-hinting:			1
+XSettings*gtk-xft-hintstyle:			hintful
+XSettings*gtk-xft-rgba:				rgb
+XSettings*net-enable-event-sounds:		1
+XSettings*net-enable-input-feedback-sounds:	1
+XSettings*net-icon-theme-name:			gnome-brave
+XSettings*net-theme-name:			Mist
+XSettings*xde-menu-theme-name:			Squared-blue
+XSettings*xde-theme-name:			Penguins
+XSettings*xft-antialias:			1
+XSettings*xft-hinting:				1
+XSettings*xft-hintstyle:			hintful
+XSettings*xft-rgba:				rgb
+
+! vim: ft=xdefaults
