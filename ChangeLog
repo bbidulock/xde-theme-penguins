@@ -1,0 +1,69 @@
+# created with git log --stat=76 -M -C -500|fmt -sct -w80
+
+commit b83ae4730968579f31938501335d4b85107cf2f5
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Sep 12 15:39:25 2014 -0600
+
+    added adwm style
+
+ Makefile.am        | 34 ++++++++++++++++++----------------
+ configure.template |  6 ++++++
+ 2 files changed, 24 insertions(+), 16 deletions(-)
+
+commit b09ddd0d53dec7e3c0d3573863f071749cc6d692
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Aug 17 17:16:01 2014 -0600
+
+    add themerc file
+
+ Makefile.am   |  3 ++-
+ theme/themerc | 80 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 82 insertions(+), 1 deletion(-)
+
+commit 05b81664aa72f8cd8555329616a207e65b29089c
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jan 25 05:14:14 2014 -0700
+
+    added waimea support
+
+ Makefile.am        | 32 +++++++++++++++++---------------
+ configure.template |  6 ++++++
+ 2 files changed, 23 insertions(+), 15 deletions(-)
+
+commit 92f1debc9cca27ab2f8fc39ed7781e47a74eb194
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Dec 23 17:51:30 2013 -0700
+
+    updated description
+
+ README | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 53aa7315169b230a77352d1bff3d301f6934e4e8
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Dec 23 15:11:49 2013 -0700
+
+    initial commit
+
+ .gitignore                  |  12 ++++
+ AUTHORS                     |   3 +
+ COPYING                     |  58 ++++++++++++++++++
+ Makefile.am                 |  69 ++++++++++++++++++++++
+ NEWS                        |  10 ++++
+ README                      |  65 +++++++++++++++++++++
+ THANKS                      |   3 +
+ autogen.sh                  |  19 ++++++
+ configure.template          | 126 ++++++++++++++++++++++++++++++++++++++++
+ images/antartica.jpg        | Bin 0 -> 267951 bytes
+ images/penguin_babies.jpg   | Bin 0 -> 367151 bytes
+ images/penguin_inflight.jpg | Bin 0 -> 402362 bytes
+ images/penguins_atbeach.jpg | Bin 0 -> 388679 bytes
+ images/penguins_busy.jpg    | Bin 0 -> 274882 bytes
+ images/penguins_drifts.jpg  | Bin 0 -> 473674 bytes
+ images/penguins_emperor.jpg | Bin 0 -> 414613 bytes
+ images/penguins_inarow2.jpg | Bin 0 -> 382578 bytes
+ images/penguins_jumping.jpg | Bin 0 -> 547565 bytes
+ images/penguins_pair.jpg    | Bin 0 -> 235728 bytes
+ theme/style                 |  51 ++++++++++++++++
+ theme/theme.ini             |  93 +++++++++++++++++++++++++++++
+ 21 files changed, 509 insertions(+)

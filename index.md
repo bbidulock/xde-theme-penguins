@@ -1,3 +1,6 @@
+---
+layout: default
+---
 [xde-theme-penguins -- read me first file.  2014-09-12]: #
 
 xde-theme-penguins
