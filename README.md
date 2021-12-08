@@ -82,6 +82,8 @@ Samples
 Following is a sample of screenshots of the theme taken under the
 [ADWM][13] window manager.
 
+![adwm.jpg](scrot/adwm.jpg "Wallpaper #5")
+
 Following are the seven wallpapers included in the theme:
 
 ![antartica.jpg](images/antartica.jpg "Wallpaper #1")
