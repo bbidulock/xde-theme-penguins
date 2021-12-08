@@ -79,6 +79,9 @@ Report issues on GitHub [here][2].
 Samples
 -------
 
+Following is a sample of screenshots of the theme taken under the
+[ADWM][13] window manager.
+
 Following are the seven wallpapers included in the theme:
 
 ![antartica.jpg](images/antartica.jpg "Wallpaper #1")
@@ -103,5 +106,6 @@ Following are the seven wallpapers included in the theme:
 [10]: https://github.com/bbidulock/xde-theme-penguins/blob/1.2/COPYING
 [11]: https://github.com/bbidulock/xde-styles
 [12]: https://github.com/bbidulock/xde-ctools
+[13]: https://bbidulock.github.io/adwm
 
 [ vim: set ft=markdown sw=4 tw=72 nocin nosi fo+=tcqlorn spell: ]: #
