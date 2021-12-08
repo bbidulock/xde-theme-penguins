@@ -79,8 +79,8 @@ Report issues on GitHub [here][2].
 Samples
 -------
 
-Following is a sample of screenshots of the theme taken under the
-[ADWM][13] window manager.
+Following is a sample screenshot of the theme taken under the [ADWM][13]
+window manager:
 
 ![adwm.jpg](scrot/adwm.jpg "Wallpaper #5")
 
