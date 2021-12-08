@@ -1,10 +1,10 @@
-[xde-theme-penguins -- read me first file.  2014-09-12]: #
+[xde-theme-penguins -- read me first file.  2021-12-08]: #
 
 xde-theme-penguins
 ===============
 
-Package `xde-theme-penguins-1.1.4` was released under CCPL:cc-by-nc-nd-3.0
-license 2014-09-12.
+Package `xde-theme-penguins-1.2` was released under CCPL:cc-by-nc-nd-3.0
+license 2021-12-08.
 
 This is a theme and a set of backgrounds for the _XDE (X Desktop
 Environment)_ that provides a set of backgrounds on
@@ -18,7 +18,7 @@ The source for `xde-theme-penguins` is hosted on [GitHub][1].
 Release
 -------
 
-This is the `xde-theme-penguins-1.1.4` package, released 2014-09-12.
+This is the `xde-theme-penguins-1.2` package, released 2021-12-08.
 This release, and the latest version, can be obtained from [GitHub][1],
 using a command such as:
 
@@ -93,14 +93,14 @@ Following are the seven wallpapers included in the theme:
 
 [1]: https://github.com/bbidulock/xde-theme-penguins
 [2]: https://github.com/bbidulock/xde-theme-penguins/issues
-[3]: https://github.com/bbidulock/xde-theme-penguins/blob/master/RELEASE
-[4]: https://github.com/bbidulock/xde-theme-penguins/blob/master/NEWS
-[5]: https://github.com/bbidulock/xde-theme-penguins/blob/master/ChangeLog
-[6]: https://github.com/bbidulock/xde-theme-penguins/blob/master/TODO
-[7]: https://github.com/bbidulock/xde-theme-penguins/blob/master/COMPLIANCE
-[8]: https://github.com/bbidulock/xde-theme-penguins/blob/master/INSTALL
-[9]: https://github.com/bbidulock/xde-theme-penguins/blob/master/LICENSE
-[10]: https://github.com/bbidulock/xde-theme-penguins/blob/master/COPYING
+[3]: https://github.com/bbidulock/xde-theme-penguins/blob/1.2/RELEASE
+[4]: https://github.com/bbidulock/xde-theme-penguins/blob/1.2/NEWS
+[5]: https://github.com/bbidulock/xde-theme-penguins/blob/1.2/ChangeLog
+[6]: https://github.com/bbidulock/xde-theme-penguins/blob/1.2/TODO
+[7]: https://github.com/bbidulock/xde-theme-penguins/blob/1.2/COMPLIANCE
+[8]: https://github.com/bbidulock/xde-theme-penguins/blob/1.2/INSTALL
+[9]: https://github.com/bbidulock/xde-theme-penguins/blob/1.2/LICENSE
+[10]: https://github.com/bbidulock/xde-theme-penguins/blob/1.2/COPYING
 [11]: https://github.com/bbidulock/xde-styles
 [12]: https://github.com/bbidulock/xde-ctools
 

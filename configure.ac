@@ -2,8 +2,8 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.69)
-AC_INIT([xde-theme-penguins],[1.1.4],[https://github.com/bbidulock/xde-theme-penguins],[xde-theme-penguins],[https://github.com/bbidulock/xde-theme-penguins/issues])
-AC_REVISION([1.1.4])
+AC_INIT([xde-theme-penguins],[1.2],[https://github.com/bbidulock/xde-theme-penguins],[xde-theme-penguins],[https://github.com/bbidulock/xde-theme-penguins/issues])
+AC_REVISION([1.2])
 
 # set better defaults
 AC_PREFIX_DEFAULT([/usr])
@@ -16,17 +16,17 @@ fi
 AC_CONFIG_SRCDIR([configure.ac])
 AC_CONFIG_AUX_DIR([scripts])
 
-DATE='2014-09-12'
+DATE='2021-12-08'
 AC_SUBST([DATE])
 
-MDOCDATE='September 12, 2014'
+MDOCDATE='December 8, 2021'
 AC_SUBST([MDOCDATE])
 
-BRANCH='master'
+BRANCH='1.2'
 AC_SUBST([BRANCH])
 
 # Initialize Automake
-AM_INIT_AUTOMAKE([1.16 dist-lzip no-dist-gzip std-options -Wall color-tests silent-rules tar-pax])
+AM_INIT_AUTOMAKE([gnits 1.16 dist-lzip no-dist-gzip std-options -Wall color-tests silent-rules tar-pax])
 AM_MAINTAINER_MODE
 AM_SILENT_RULES([yes])
 
