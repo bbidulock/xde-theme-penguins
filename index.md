@@ -97,6 +97,13 @@ Following are the seven wallpapers included in the theme:
 ![penguins_drifts.jpg](images/penguins_drifts.jpg "Wallpaper #6")
 ![penguins_pair.jpg](images/penguins_pair.jpg "Wallpaper #7")
 
+Following are an additional three wallpapers that may be used to
+customize the theme:
+
+![penguin_babies.jpg](images/penguin_babies.jpg "Additional Image #1")
+![penguins_atbeach.jpg](images/penguins_atbeach.jpg "Additional Image #2")
+![penguins_emperor.jpg](images/penguins_emperor.jpg "Additional Image #3")
+
 
 
 [1]: https://github.com/bbidulock/xde-theme-penguins
