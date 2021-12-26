@@ -1,5 +1,76 @@
 # created with git log --stat=76 -M -C -500|fmt -sct -w80
 
+commit ecff8c0a0914ce79a94d9762fafe0239aae12c39
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Dec 8 23:58:17 2021 -0700
+
+    show additional wallpapers
+
+ README       | 7 +++++++
+ README.md    | 7 +++++++
+ README.md.in | 7 +++++++
+ index.md     | 7 +++++++
+ 4 files changed, 28 insertions(+)
+
+commit f4f1c324951841603e80cb8a849bc42a3d536c07
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Dec 8 23:17:53 2021 -0700
+
+    prepare for adwm theme
+
+ Makefile.am              |  5 +++-
+ configure.ac             |  6 ++++
+ theme/adwm/themerc       | 69 ++++++++++++++++++++++++++++++++++++++++++++
+ theme/{ => wmaker}/style |  0
+ 4 files changed, 79 insertions(+), 1 deletion(-)
+
+commit 2d560bb84e7b0ab94683e885b2ff2bb725316663
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Dec 8 12:05:52 2021 -0700
+
+    update text
+
+ README       | 4 ++--
+ README.md    | 4 ++--
+ README.md.in | 4 ++--
+ index.md     | 4 ++--
+ 4 files changed, 8 insertions(+), 8 deletions(-)
+
+commit c915ce22ddab7bb7e5f15f860840ee73a53fde84
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Dec 8 11:49:58 2021 -0700
+
+    actually add image
+
+ README       | 2 ++
+ README.md    | 2 ++
+ README.md.in | 2 ++
+ index.md     | 2 ++
+ 4 files changed, 8 insertions(+)
+
+commit 04bf66b80271b3e64c7b0ee716d3751f5f058a11
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Dec 8 11:47:36 2021 -0700
+
+    add a screenshot
+
+ README         |   4 ++++
+ README.md      |   4 ++++
+ README.md.in   |   4 ++++
+ index.md       |   4 ++++
+ scrot/adwm.jpg | Bin 0 -> 210989 bytes
+ 5 files changed, 16 insertions(+)
+
+commit 0c92ec73f88924e892925b8916220f4ed1a61f66
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Wed Dec 8 02:02:24 2021 -0700
+
+    post-release update
+
+ ChangeLog | 15 +++++++++++++++
+ NEWS      |  3 ++-
+ 2 files changed, 17 insertions(+), 1 deletion(-)
+
 commit 7accad07423104d9fda40c3e18fb7554aacb02a0
 Author: Brian Bidulock <bidulock@openss7.org>
 Date:   Wed Dec 8 02:01:55 2021 -0700

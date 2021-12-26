@@ -1,5 +1,19 @@
 xde-theme-penguins -- history of user-visible changes.  2021-12-08
 
+Release xde-theme-penguins-1.2.6 released 2021-12-08
+----------------------------------------------------
+
+git shortlog -e -n -w80,6,8 1.2...1.2.6
+
+Brian Bidulock <bidulock@openss7.org> (6):
+      post-release update
+      add a screenshot
+      actually add image
+      update text
+      prepare for adwm theme
+      show additional wallpapers
+
+
 Release xde-theme-penguins-1.2 released 2021-12-08
 --------------------------------------------------
 
